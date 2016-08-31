@@ -1,0 +1,35 @@
+
+#css-zen-garden
+{ 
+	background: linear-gradient(#A3EEDA,#EEFACA);
+	color: #066630;
+
+
+	
+}
+h1 {
+
+ color: #41430E;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+font-family: fantasy;
+font-size: 40px;
+}
+p{
+text-align: justify;
+font-family: Times;
+
+}
+h2,h3{
+	justify-content: center;
+  align-items: center;
+font-family: fantasy;
+
+}
+#zen-resources
+{ 
+
+
+
+}
