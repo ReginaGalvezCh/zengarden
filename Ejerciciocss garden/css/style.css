@@ -1,35 +1,55 @@
 
 #css-zen-garden
-{ 
-	background: linear-gradient(#A3EEDA,#EEFACA);
-	color: #066630;
+ {
+	background: linear-gradient(#A3EEDA,#EEFACA); 
+	color: #066630; }
 
 
-	
-}
+
 h1 {
-
+border-style: solid;
+ border-width: 2px;
+ height:100px;
+width: 500px;
+ background-image: url("https://s.graphiq.com/sites/default/files/stories/t4/The_50_Most_Zen_Cities_in_America_4228_5220.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
  color: #41430E;
- display: flex;
-  justify-content: center;
-  align-items: center;
+margin-right: 300px;
+margin-left: 300px;
 font-family: fantasy;
 font-size: 40px;
+}
+
+.page-wrapper
+
+{background-image: url("http://www.jogazgierz.com/media/2015/07/Fotolia_68783606_Subscription_Monthly_M.jpg");
+border: 2px solid green;
+border-radius: 60px;
+margin-right: 40px;
+margin-left: 40px;
+
 }
 p{
 text-align: justify;
 font-family: Times;
+margin: 10px 80px 10px 50px;
 
 }
 h2,h3{
-	justify-content: center;
-  align-items: center;
+;
+border-radius: 60px;
+margin-right: 40px;
+margin-left: 40px;
+
+
 font-family: fantasy;
 
 }
-#zen-resources
+#zen-resources: hover
 { 
-
+border-bottom: 1px solid black
+margin: 10px 80px 10px 50px;
 
 
 }
